@@ -4,6 +4,8 @@
 include::{snippets}/get-lost-post-comments/http-request.adoc[]
 .Path Parameters
 include::{snippets}/get-lost-post-comments/path-parameters.adoc[]
+.Query Parameters
+include::{snippets}/get-community-post-comments/query-parameters.adoc[]
 .Response
 include::{snippets}/get-lost-post-comments/http-response.adoc[]
 .Response Fields
